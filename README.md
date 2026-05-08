@@ -1,16 +1,19 @@
-# 👋 Call me J!
-### **Aspiring Data Analyst | Sports & Tourism Insights**
+# 👋 Call me J! 
+BS Information Systems Student |
+West Visayas State University
+#
+### **Aspiring Data Analyst **
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7A41D&lines=Data+Analysis;Data+Storytelling;Forecasting)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7A41D&lines=Data+Storytelling;Sports+Analytics;Tourism+Forecasting)
+I aspire to become someone who conveys stories in a manner everyone can understand, using the information produced by the world. I want to create something that will open the mid of people
 
-I bridge the gap between raw numbers and actionable strategy. My work focuses on uncovering patterns in **sports performance** and **tourism trends** to help organizations make data-driven decisions.
 
 ---
 
 ## 🚀 What I’m Working On
 * **Projects:** Developing end-to-end pipelines—from data cleaning in Python to storytelling through visualization.
 * **Skill Building:** Deepening my knowledge of advanced SQL queries and interactive dashboarding.
-* **Domain Focus:** Analyzing athlete metrics and regional tourism growth datasets.
+
 
 ---
 
@@ -40,8 +43,7 @@ I bridge the gap between raw numbers and actionable strategy. My work focuses on
 ---
 
 ## 🎯 2026 Goals
-* [ ] Deploy a Streamlit web app for real-time sports stats.
-* [ ] Contribute to open-source tourism datasets.
+* [ ] Deploy a Streamlit web app for real-time  statistics.
 * [ ] Master exploratory data analysis (EDA) for complex, unstructured data.
 
 ---
