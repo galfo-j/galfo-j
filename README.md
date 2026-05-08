@@ -3,9 +3,10 @@ BS Information Systems Student |
 West Visayas State University
 #
 ### **Aspiring Data Analyst **
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7A41D&lines=Data+Analysis;Data+Storytelling;Forecasting)
 
-I aspire to become someone who conveys stories in a manner everyone can understand, using the information produced by the world. I want to create something that will open the mid of people
+*I aspire to become someone who conveys stories in a manner everyone can understand, using the information produced by the world. I want to create something that will open the minds of people.*
 
 
 ---
