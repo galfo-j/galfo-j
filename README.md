@@ -36,9 +36,7 @@ I aspire to become someone who conveys stories in a manner everyone can understa
 
 | **My Stats** | **Language Distribution** |
 | :--- | :--- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=galfo-j&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galfo-j&layout=compact&theme=radical) |
-
-![GitHub Streak](https://streak-stats.demolab.com?user=galfo-j&theme=radical)
+| ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=galfo-j&theme=radical) |
 
 ---
 
